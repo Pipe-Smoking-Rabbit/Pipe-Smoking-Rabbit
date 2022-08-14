@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mitchell</h1>
-<h3 align="center">Upcoming Graduate of Northcoders full stack development course</h3>
+<h1 align="left">Mitchell Wyatt</h1>
+<h3 align="left">Upcoming Graduate of Northcoders full stack development course</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pipe-smoking-rabbit&label=Visitors&color=1c7e97&style=flat-square" alt="pipe-smoking-rabbit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipe-smoking-rabbit" alt="pipe-smoking-rabbit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipe-smoking-rabbit" alt="pipe-smoking-rabbit" /></a> </p>
 
 - 🔭 I’m currently working on [Chip-In](https://github.com/Pipe-Smoking-Rabbit/chip-in)
 
