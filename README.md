@@ -1,5 +1,5 @@
 <h1 align="left">Mitchell Wyatt</h1>
-<h3 align="left">Upcoming Graduate of Northcoders full stack development course</h3>
+<h3 align="left">Full Stack Software Developer</h3>
 
 <br/>
 
